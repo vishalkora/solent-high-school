@@ -664,3 +664,18 @@ img {
 .page-title .bread-crumb li:last-child::after {
 	display: none;
 }
+
+.card-body h4 {
+	font-size: 24px !important;
+	color: #FABDB8ff;
+}
+
+.card-body h4:hover {
+	font-size: 24px !important;
+	color: #222222;
+}
+
+.card-text {
+	font-size: 14px !important;
+	line-height: normal;
+}
