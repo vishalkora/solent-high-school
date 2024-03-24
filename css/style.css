@@ -665,6 +665,10 @@ img {
 	display: none;
 }
 
+.logo-header-text {
+	color: #30355d !important;
+}
+
 .card-body h4 {
 	font-size: 24px !important;
 	color: #FABDB8ff;
