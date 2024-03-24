@@ -1,2 +1,0 @@
-# appolosesame.com
- Initial Hosting
